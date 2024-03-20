@@ -6,7 +6,9 @@ This project Repository is all about creating a password protected door lock usi
 
 # Software Required:-
 NOTE****** This experiment can be performed both by using hardware as well as by using Software.
+
 For Hardware:- make sure that you have all the required circuit components and ARDUINO IDE Installed.
+
 For software:- Open an Tinkercad account you can design and simulate your designs online. 
 
 # Circuit connections:- 
